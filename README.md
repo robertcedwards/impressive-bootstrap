@@ -25,5 +25,10 @@ cp -r ../bootstrap/less ../../
 <pre><code>cp -r components/impress.js/js/impress.js js/</pre></code>
 
 Install Less.js
-
 <pre><code>bower install cloudhead/less.js/</code></pre>
+Copy it over
+<pre><code>cp -r components/less.js/dist/less-1.3.3.min.js js/</pre></code>
+Copy jquery over
+<pre><code>cp -r components/jquery/jquery.min.js js/</pre></code>
+
+

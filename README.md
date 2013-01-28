@@ -8,9 +8,7 @@ I'm using [Bower](https://github.com/twitter/bower) for package management so yo
 <p>Bower is installed using <a href="http://nodejs.org/">Node</a> and <a href="http://npmjs.org/">npm</a> (oh my, how meta).</p>
 <pre><code>npm install bower -g</code></pre>
 Install the Libraries
-<pre><code>bower install twitter/bootstrap</code></pre>
-<pre><code>bower install bartaz/impress.js</code></pre>
-<pre><code>bower install cloudhead/less.js</code></pre>
+<pre><code>bower install bootstrap && bower install bartaz/impress.js && bower install cloudhead/less.js</code></pre>
 Move to Bootstrap and Make
 <pre><code>$ cd components/bootstrap && make</code></pre>
 Copy over the libraries

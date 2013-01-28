@@ -1,7 +1,7 @@
 impressive-bootstrap
 ====================
 
-[Impress.js](https://github.com/bartaz/impress.js) with Bootstrap hanging on…for making impressive html presentations with Bootstrap flavor added in.
+[Impress.js](https://github.com/bartaz/impress.js) with Bootstrap hanging on…for making impressive html presentations with Bootstrap flavor added.
 
 I'm using [Bower](https://github.com/twitter/bower) for package management so you may need to install it.
 <a name="installing-bower" class="anchor" href="#installing-bower"><span class="mini-icon mini-icon-link"></span></a>

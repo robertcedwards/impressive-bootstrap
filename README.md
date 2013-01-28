@@ -12,4 +12,4 @@ Install the Libraries
 Move to Bootstrap and Make
 <pre><code>$ cd components/bootstrap && make</code></pre>
 Copy over the libraries
-<pre><code>cp -r ../bootstrap/js ../../ && cp -r components/less.js/dist/less-1.3.3.min.js js/ && cp -r components/jquery/jquery.min.js js/ && cp -r components/impress.js/js/impress.js js/</pre></code>
+<pre><code>mkdir js && cp -r ../bootstrap/js ../../ && cp -r components/less.js/dist/less-1.3.3.min.js js/ && cp -r components/jquery/jquery.min.js js/ && cp -r components/impress.js/js/impress.js js/</pre></code>
